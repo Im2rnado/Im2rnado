@@ -16,11 +16,13 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 
 * **More soon!**
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=dark" alt="Github Stats"/>
-</p>
-
 ## My Socials
+<a href="https://twitter.com/im2rnadoo">
+        <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="60px" draggable="false" alt="Twitter"/>
+    </a>
+    <a href="https://www.instagram.com/im2rnadoo">
+        <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-512.png" height="60px" draggable="false" alt="Instagram"/>
+    </a>
 <p align="left">
     <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -29,11 +31,7 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 <img draggable="false" src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
 </a>
 </p>
-<a href="https://twitter.com/im2rnadoo">
-        <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="60px" draggable="false" alt="Twitter"/>
-    </a>
-    <a href="https://www.instagram.com/im2rnadoo">
-        <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-512.png" height="60px" draggable="false" alt="Instagram"/>
-    </a>
 
+## My Stats
+<img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=dark" alt="Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
