@@ -28,7 +28,7 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 
 ## My Socials
 
-<p align="center">
+<p align="left">
     <a href="https://twitter.com/im2rnadoo">
         <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="350px;" alt="Twitter"/>
     </a>
@@ -37,7 +37,7 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
     </a>
 </p>
 
-<p align="center">
+<p align="right">
     <a href="http://discord.gg/5pKvUpA">
         <img src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner4" width="250px;" alt="Carbide Server"/>
     </a><br/>
