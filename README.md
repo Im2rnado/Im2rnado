@@ -3,15 +3,10 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 
 ## My Projects
 * **[Carbide](https://github.com/im2rnado/Carbide-Help)**
-
   * Discord Bot that interacts with your Fortnite account
-
 * **[Stinger](https://github.com/im2rnado/Stinger-Help)**
-
   * Discord Bot that interacts with your Valorant account
-
 * **[Blaze](https://github.com/im2rnado/Blaze-Help)**
-
   * Fortnite Lobby Bot controlled through Discord
 
 * **More soon!**
