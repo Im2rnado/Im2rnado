@@ -1,8 +1,7 @@
-# Welcome to my GitHub page
-
+# Im2rnado
 Welcome!
 
-My name is tornado or im2rnado and I'm a JavaScript developer that works on Fortnite related projects.
+My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works mainly on Fortnite related projects.
 
 ## Projects i've made
 
