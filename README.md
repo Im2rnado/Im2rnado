@@ -24,7 +24,7 @@ My name is tornado or im2rnado and I'm a JavaScript developer that works on Fort
    <img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
 </p>
 
 ## My Socials
