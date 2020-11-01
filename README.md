@@ -22,9 +22,6 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=dark" alt="Github Stats"/>
 </p>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
-</p>
 
 ## My Socials
 
