@@ -1,4 +1,6 @@
+<div align="center">
 # Welcome
+</div>
 My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works mainly on Fortnite related projects.
 
 ## My Projects
