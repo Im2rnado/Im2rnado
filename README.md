@@ -37,8 +37,5 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
     <a href="http://discord.gg/hKpcjhK">
         <img src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner4" height="76px" draggable="false" alt="Stinger Server"/>
     </a><br/>
-</p>
-
-<p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
 </p>
