@@ -30,9 +30,9 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
     </a>
     <a href="http://discord.gg/5pKvUpA">
         <img src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner4" height="76px" draggable="false" alt="Carbide Server"/>
-    </a><br/>
+    </a>
     <a href="http://discord.gg/hKpcjhK">
         <img src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner4" height="76px" draggable="false" alt="Stinger Server"/>
-    </a><br/>
+    </a>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
 </p>
