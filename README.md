@@ -28,11 +28,14 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
     <a href="https://www.instagram.com/im2rnadoo">
         <img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" height="76px" draggable="false" alt="Instagram"/>
     </a>
-    <a href="http://discord.gg/5pKvUpA">
-        <img src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner4" height="76px" draggable="false" alt="Carbide Server"/>
-    </a>
-    <a href="http://discord.gg/hKpcjhK">
-        <img src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner4" height="76px" draggable="false" alt="Stinger Server"/>
-    </a>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
 </p>
+
+<a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
+<img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
+</a>
+
+<a target="_blank" href="https://discord.gg/hKpcjhK" title="Join our Discord!">
+<img draggable="false" src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
