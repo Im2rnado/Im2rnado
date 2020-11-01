@@ -9,8 +9,6 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 * **[Blaze](https://github.com/im2rnado/Blaze-Help)**
   * Fortnite Lobby Bot controlled through Discord
 
-* **More soon!**
-
 ## My Socials
 <a href="https://twitter.com/im2rnadoo">
         <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="60px" draggable="false" alt="Twitter"/>
