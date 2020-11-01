@@ -21,7 +21,7 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 </p>
 
 ## My Socials
-<p align="center">
+<p align="left">
     <a href="https://twitter.com/im2rnadoo">
         <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="76px" draggable="false" alt="Twitter"/>
     </a>
