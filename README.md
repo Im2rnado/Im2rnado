@@ -1,10 +1,7 @@
-# Im2rnado
-Welcome!
-
+# Welcome
 My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works mainly on Fortnite related projects.
 
 ## My Projects
-
 * **[Carbide](https://github.com/im2rnado/Carbide-Help)**
 
   * Discord Bot that interacts with your Fortnite account
@@ -24,7 +21,6 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 </p>
 
 ## My Socials
-
     <a href="https://twitter.com/im2rnadoo">
         <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="350px;" alt="Twitter"/>
     </a>
@@ -39,4 +35,8 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
     <a href="http://discord.gg/hKpcjhK">
         <img src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner4" width="250px;" alt="Stinger Server"/>
     </a><br/>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
 </p>
