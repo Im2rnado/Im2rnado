@@ -37,13 +37,11 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
     </a>
 </p>
 
-<p align="right">
+<p align="center">
     <a href="http://discord.gg/5pKvUpA">
         <img src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner4" width="250px;" alt="Carbide Server"/>
     </a><br/>
     <a href="http://discord.gg/hKpcjhK">
-
         <img src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner4" width="250px;" alt="Stinger Server"/>
-
     </a><br/>
 </p>
