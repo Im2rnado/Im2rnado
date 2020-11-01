@@ -33,7 +33,7 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
         <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="60px" draggable="false" alt="Twitter"/>
     </a>
     <a href="https://www.instagram.com/im2rnadoo">
-        <img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" height="50px" draggable="false" alt="Instagram"/>
+        <img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" height="30px" draggable="false" alt="Instagram"/>
     </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
