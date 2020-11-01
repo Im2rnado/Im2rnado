@@ -3,7 +3,7 @@ Welcome!
 
 My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works mainly on Fortnite related projects.
 
-## Projects i've made
+## My Projects
 
 * **[Carbide](https://github.com/im2rnado/Carbide-Help)**
 
@@ -28,14 +28,12 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
 
 ## My Socials
 
-<p align="left">
     <a href="https://twitter.com/im2rnadoo">
         <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="350px;" alt="Twitter"/>
     </a>
     <a href="https://www.instagram.com/im2rnadoo">
         <img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" width="300px;" alt="Instagram"/>
     </a>
-</p>
 
 <p align="center">
     <a href="http://discord.gg/5pKvUpA">
