@@ -25,8 +25,8 @@ My name is **Tornado** or **im2rnado** and i'm a JavaScript developer that works
     </a>
 </br>
 <p align="left">
-    <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
-<img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
+    <a target="_blank" href="https://discord.gg/PXXc3Xy26v" title="Join our Discord!">
+<img draggable="false" src="https://discordapp.com/api/guilds/802400590985560096/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
 </a>
 <a target="_blank" href="https://discord.gg/hKpcjhK" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/743594467277406458/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
