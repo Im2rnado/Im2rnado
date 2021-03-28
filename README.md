@@ -10,7 +10,7 @@ My name is **Tornado** or **im2rnado** and i'm a developer. I usually code in No
 * **[Carbide Discord](https://github.com/im2rnado/Carbide-Help)**
   * Discord Bot that interacts with your Fortnite account
 * **[Carbide Telegram](https://t.me/CarbideFNBot)**
-  * Discord Bot that interacts with your Fortnite account
+  * Telegram Bot that interacts with your Fortnite account
 * **[Stinger](https://github.com/im2rnado/Stinger-Help)**
   * Discord Bot that interacts with your Valorant account
 * **[Blaze](https://github.com/im2rnado/Blaze-Help)**
