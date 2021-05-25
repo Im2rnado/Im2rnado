@@ -7,14 +7,17 @@
 My name is **Tornado** or **im2rnado** and i'm a developer. I usually code in NodeJS and C# and I work mainly on Fortnite related projects.
 
 ## My Projects
+* **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
+  * Open-source project which generates the Fortnite Item Shop in an image similar to the in-game design.
 * **[Carbide Discord](https://github.com/im2rnado/Carbide-Help)**
   * Discord Bot that interacts with your Fortnite account
 * **[Carbide Telegram](https://t.me/CarbideFNBot)**
   * Telegram Bot that interacts with your Fortnite account
 * **[Stinger](https://github.com/im2rnado/Stinger-Help)**
   * Discord Bot that interacts with your Valorant account
-* **[Blaze](https://github.com/im2rnado/Blaze-Help)**
-  * Fortnite Lobby Bot controlled through Discord
+
+## My Stats
+<img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
 
 ## My Socials
 <a href="https://twitter.com/im2rnadoo">
@@ -29,7 +32,3 @@ My name is **Tornado** or **im2rnado** and i'm a developer. I usually code in No
 <img draggable="false" src="https://discordapp.com/api/guilds/802400590985560096/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
 </a> 
 </p>
-
-## My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2rnado&layout=compact" alt="Github Stats"/>
