@@ -9,8 +9,6 @@ My name is **Tornado** or **im2rnado** and i'm a developer. I usually code in No
 ## My Projects
 * **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
   * Open-source project which generates the Fortnite Item Shop in an image similar to the in-game design.
-* **[Carbide Discord](https://github.com/im2rnado/Carbide-Help)**
-  * Discord Bot that interacts with your Fortnite account
 * **[Carbide Telegram](https://t.me/CarbideFNBot)**
   * Telegram Bot that interacts with your Fortnite account
 * **[Stinger](https://github.com/im2rnado/Stinger-Help)**
