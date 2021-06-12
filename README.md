@@ -4,7 +4,7 @@
 
 </div>
 
-My name is **Tornado** or **im2rnado** and i'm a developer. I usually code in NodeJS and C# and I work mainly on Fortnite related projects.
+My name is **Tornado** or **im2rnado** and i'm a developer. I usually code in JavaScript, TypeScript, and C#. I work mainly on Epic Games related projects.
 
 ## My Projects
 * **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
@@ -25,8 +25,3 @@ My name is **Tornado** or **im2rnado** and i'm a developer. I usually code in No
         <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-512.png" height="60px" draggable="false" alt="Instagram"/>
     </a>
 </br>
-<p align="left">
-    <a target="_blank" href="https://discord.gg/carbide" title="Join our Discord!">
-<img draggable="false" src="https://discordapp.com/api/guilds/802400590985560096/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
-</a> 
-</p>
