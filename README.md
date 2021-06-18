@@ -1,27 +1,28 @@
-<div align="center">
+### Hi there, I'm tornado - aka im2rnado 👋
 
-# Welcome
+[![Twitter Follow](https://img.shields.io/twitter/follow/im2rnadoo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fim2rnado&screen_name=im2rnadoo)
 
-</div>
+## I'm a Developer!
 
-My name is **Tornado** or **im2rnado** and i'm a developer. I usually code in JavaScript, TypeScript, and C#. I work mainly on Epic Games related projects.
+- 🌐 I'm exprienced with JavaScript, TypeScript, C#, and a bit of Python.
+- 🔭 I’m currently working on **C# Applications**.
+- 🌱 My commissions are open, so if you need any projects, don't hesitate [contacting me](discord).
+- 🥅 2021 Goals: Become more advanced in front-end
 
-## My Projects
+## Projects:
 * **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
   * Open-source project which generates the Fortnite Item Shop in an image similar to the in-game design.
+* **[Fortnite-Discord-RPC](https://github.com/im2rnado/Fortnite-Discord-RPC)**
+  * Open-source which sets your Fortnite level as your Discord status.
 * **[Carbide Telegram](https://t.me/CarbideFNBot)**
-  * Telegram Bot that interacts with your Fortnite account
+  * Telegram Bot which controls your Fortnite account, performing actions which can only be done in-game.
 * **[Stinger](https://github.com/im2rnado/Stinger-Help)**
-  * Discord Bot that interacts with your Valorant account
+  * Discord Bot which interacts with your Valorant account
 
-## My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=light&count_private=true" alt="Github Stats"/>
 
-## My Socials
-<a href="https://twitter.com/im2rnadoo">
-        <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="60px" draggable="false" alt="Twitter"/>
-    </a>
-    <a href="https://www.instagram.com/im2rnadoo">
-        <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-512.png" height="60px" draggable="false" alt="Instagram"/>
-    </a>
-</br>
+## Contact me
+- Discord: tornado#9999
+- Twitter: [@im2rnadoo](https://twitter.com/im2rnadoo)
+- Email: owner@carbidebot.com
