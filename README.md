@@ -6,7 +6,7 @@
 
 - 🌐 I'm exprienced with JavaScript, TypeScript, C#, and a bit of Python.
 - 🔭 I’m currently working on **C# Applications**.
-- 🌱 My commissions are open, so if you need any projects, don't hesitate [contacting me](discord).
+- 🌱 My commissions are open, so if you need any projects, don't hesitate to [contact me](#contact me).
 - 🥅 2021 Goals: Become more advanced in front-end
 
 ## Projects:
