@@ -1,6 +1,11 @@
 ### Hi there, I'm tornado - aka im2rnado 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/im2rnadoo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fim2rnado&screen_name=im2rnadoo)
+<p align="left">
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-tornado%239999-%237289DA?style=flat&logo=discord" alt="discord"/></a>
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fim2rnado&screen_name=im2rnadoo"><img src="https://img.shields.io/badge/Twitter-@im2rnadoo-%231DA1F2?style=flat&logo=twitter" alt="twitter"/></a>
+<br/>
+<a href="./donate.md"><img src="https://img.shields.io/badge/Donate%20Bitcoin-1F2gwh4U4KHk2n8eWEKtwsfMxgh9ibUMtn-%23FF9900?style=flat&logo=bitcoin" alt="donate bitcoin"/></a>
+</p>
 
 ## I'm a Developer!
 
