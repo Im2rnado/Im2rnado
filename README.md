@@ -17,6 +17,8 @@
 ## Projects:
 * **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
   * Open-source project which generates the Fortnite Item Shop in an image similar to the in-game design.
+* **[Bonker](https://github.com/im2rnado/Bonker.js)**
+  * An NPM Package to generate a bonk gif out of an image.
 * **[Fortnite-Discord-RPC](https://github.com/im2rnado/Fortnite-Discord-RPC)**
   * Open-source which sets your Fortnite level as your Discord status.
 * **[Carbide Telegram](https://t.me/CarbideFNBot)**
