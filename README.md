@@ -14,17 +14,24 @@
 - 🌱 My commissions are open, so if you need any projects, don't hesitate to [contact me](#contact-me).
 - 🥅 2022 Goals: Become more advanced in front-end
 
-## Past Projects:
+## Previous Projects:
+
+* **[C20](https://discord.gg/c20)**
+  * Yahoo mail penetesting tool made in C#, with Captcha Solver support.
+* **[AolVIP](https://discord.gg/c20)**
+  * Aol mail penetesting tool made in C#, with Captcha Solver support.
+* **Fortnitify** (Outdated)
+  * C# program which checks Fortnite stats from email, through the Epic Games API.
 * **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
   * Open-source project which generates the Fortnite Item Shop in an image similar to the in-game design.
 * **[Bonker](https://github.com/im2rnado/Bonker.js)**
-  * An NPM Package to generate a bonk gif out of an image.
+  * A NodeJS NPM Package which helps generate a bonk gif out of an image.
 * **[Fortnite-Discord-RPC](https://github.com/im2rnado/Fortnite-Discord-RPC)**
   * Open-source which sets your Fortnite level as your Discord status.
 * **[Carbide Telegram](https://t.me/CarbideFNBot)**
   * Telegram Bot which controls your Fortnite account, performing actions which can only be done in-game.
-* **[Stinger](https://github.com/im2rnado/Stinger-Help)**
-  * Discord Bot which interacts with your Valorant account
+* **[Stinger](https://github.com/im2rnado/Stinger-Help)** (Outdated)
+  * Discord Bot which interacts with your Valorant account.
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=im2rnado&show_icons=true&theme=light&count_private=true" alt="Github Stats"/>
