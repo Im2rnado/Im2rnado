@@ -20,6 +20,8 @@
   * Aol mail penetesting tool made in C#, with Captcha Solver support.
 * **Carbide** (Outdated)
   * Discord bot which controls your Fortnite account, performing actions which can only be done in-game.
+* **Fortnitify** (Outdated)
+   * C# program which checks Fortnite stats from email, through the Epic Games API.
 * **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
   * Open-source project which generates the Fortnite Item Shop in an image similar to the in-game design.
 * **[Bonker](https://github.com/im2rnado/Bonker.js)**
