@@ -27,6 +27,8 @@
 
 ## Open-Source Projects:
 
+* **[Bedroz](https://github.com/im2rnado/bedroz)**
+  * ReactJS website which has all your favorite movies and tv shows for free.
 * **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
   * NodeJS script which generates the Fortnite Item Shop in an image similar to the in-game design.
 * **[Bonker](https://github.com/im2rnado/Bonker.js)**
