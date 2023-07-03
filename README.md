@@ -46,4 +46,4 @@
 ## Contact me
 - Discord: tornado#7262
 - Twitter: [@im2rnadoo](https://twitter.com/im2rnadoo)
-- Email: yassin.bedier@gmail.com
+- Email: im2rnadoo@gmail.com
