@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-tornado%237262-%237289DA?style=flat&logo=discord" alt="discord"/></a>
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fim2rnado&screen_name=im2rnadoo"><img src="https://img.shields.io/badge/Twitter-@im2rnadoo-%231DA1F2?style=flat&logo=twitter" alt="twitter"/></a>
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fim2rnado&screen_name=yassinBedro"><img src="https://img.shields.io/badge/Twitter-@yassinBedro-%231DA1F2?style=flat&logo=twitter" alt="twitter"/></a>
 </p>
 
 ## I'm a Developer!
