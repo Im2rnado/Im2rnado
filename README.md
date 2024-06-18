@@ -1,4 +1,4 @@
-### Hi there, I'm Yassin - aka im2rnado 👋
+### Hi there, I'm Yassin 👋
 
 <p align="left">
 <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-tornado%237262-%237289DA?style=flat&logo=discord" alt="discord"/></a>
@@ -6,20 +6,21 @@
 
 ## I'm a Developer!
 
-- 🌐 I'm exprienced with C#, JavaScript, Python, Dart, and TypeScript.
-- 🔭 I’m currently working on **Mobile Applications**.
+- 🌐 I'm exprienced in C#, JavaScript, Python, Dart, TypeScript, HTML and CSS.
+- 🔭 I’m currently working on **Websites**.
 - 🌱 My commissions are open, so if you need any projects, don't hesitate to [contact me](#contact-me).
-- 🥅 2023  Goals: Start selling productive products.
 
 ## Projects:
 
-* **C20 (Outdated)**
+* **Faragski**
+  * Free movies & tv shows streaming website made with ReactJS.
+* **C20**
   * Yahoo mail penetesting tool made in C#, with Captcha Solver support.
-* **AolVIP (Oudated)**
+* **AolVIP**
   * Aol mail penetesting tool made in C#, with Captcha Solver support.
-* **Carbide** (Outdated)
+* **Carbide**
   * Discord bot which controls your Fortnite account, performing actions which can only be done in-game.
-* **Fortnitify** (Outdated)
+* **Fortnitify**
    * C# program which checks Fortnite stats from email, through the Epic Games API.
 
 ## Open-Source Projects:
@@ -40,5 +41,5 @@
 
 ## Contact me
 - Discord: tornado#7262
-- Twitter: [@yassinBedro](https://twitter.com/yassinBedro)
+- Twitter: [@yassinBedro](https://x.com/yassinBedro)
 - Email: im2rnadoo@gmail.com
