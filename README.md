@@ -1,14 +1,9 @@
-### Hi there, I'm Yassin 👋
-
-<p align="left">
-<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-tornado%237262-%237289DA?style=flat&logo=discord" alt="discord"/></a>
-</p>
+# Hi there, I'm Yassin 👋
 
 ## I'm a Developer!
-
-- 🌐 I'm exprienced in C#, JavaScript, Python, Dart, TypeScript, HTML and CSS.
-- 🔭 I’m currently working on **Websites**.
-- 🌱 My commissions are open, so if you need any projects, don't hesitate to [contact me](#contact-me).
+- 🌐 **Languages**: C#, JavaScript, TypeScript, Python, Dart, HTML/CSS, C, GoLang, SQL.
+- 🔭 **Frameworks**: React, NodeJS, Flutter, Vite, Next.JS, Django, AWS, DBMS
+- 🌱 I'm open to work, feel free to [contact me](#contact-me).
 
 ## Projects:
 * **Faragski**
