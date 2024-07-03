@@ -6,8 +6,6 @@
 - 🌱 I'm open to work, feel free to [contact me](#contact-me).
 
 ## Projects:
-* **Faragski**
-  * Free movies & tv shows streaming website made with ReactJS.
 * **NHIS App**
   * All around school management system which makes life easier for teachers, students, parents, employees. I have developed a flutter mobile application for students/parents, and another mobile application for teachers/employees, along with a Laravel admin dashboard with over 400 functions.
 * **C20**
