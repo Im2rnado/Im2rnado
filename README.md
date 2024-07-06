@@ -18,8 +18,10 @@
    * C# program which checks Fortnite stats from email, through the Epic Games API.
 
 ## Open-Source Projects:
+* **[AI Todo List](https://github.com/Im2rnado/ai-todo)**
+  * AI-powered to-do list application built with Next.js. It leverages OpenAI's API to intelligently generate, update, and manage tasks based on input.
 * **[Twitter Sentiment Analysis](https://github.com/Im2rnado/twitter-sentiment-analysis)**
-  * Sentiment analysis on tweets using Logistic Regression, Decision Trees, KNN, Random Forest, XG Boost, SVM, and NLP (RoBERTa) 
+  * Sentiment analysis on tweets using Logistic Regression, Decision Trees, KNN, Random Forest, XG Boost, SVM, and NLP (RoBERTa).
 * **[Fort-Shop](https://github.com/im2rnado/Fort-Shop)**
   * NodeJS script which generates the Fortnite Item Shop in an image similar to the in-game design.
 * **[Usmap.Js](https://github.com/im2rnado/Usmap.js)**
