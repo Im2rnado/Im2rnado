@@ -39,6 +39,9 @@
 
 - **[Number Guessing Game](https://github.com/Im2rnado/number-guessing-game)**
   - A fun and interactive number guessing game built with Python and Tkinter. This game offers multiple modes of play to challenge players of all skill levels.
+ 
+- **[We Quota Checker](https://github.com/Im2rnado/we-quota-checker)**
+  - An NPM package that fetches your current internet quota details for WE (Telecom Egypt) 
 
 - **[Usmap.Js](https://github.com/im2rnado/Usmap.js)**
   - An NPM library for parsing Usmap files to extract mappings, enums, and schemas.
