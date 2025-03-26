@@ -13,6 +13,9 @@
 
 ## 🏗️ Projects:
 
+- **[Taqwa App](https://cutt.ly/taqwaa)**
+  - A comprehensive Islamic app that supports Muslims in their daily lives.
+
 - **[ESLSCA Connect](https://github.com/Im2rnado/eslsca-connect)**
   - Web Application for ESLSCA University that serves as a social networking platform. Built with MERN Stack.
 
