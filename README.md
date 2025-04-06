@@ -4,8 +4,8 @@
 - I'm a Full-Stack Developer currently open to work and new opportunities. Feel free to [contact me](#contact-me)!
 
 ## 💻 Core Skills:
-- **Languages**: C#, JavaScript, TypeScript, Python, PHP, Java, Dart, HTML/CSS, C, Go, SQL
-- **Frameworks & Libraries**: Node.js, React, Next.js, Vite, Django, Express.js, AngularJS, Laravel, Flutter, Vue.js, Vite, TailwindCSS, Bootstrap, .NET, Ionic
+- **Languages**: JavaScript, TypeScript, Python, Java, PHP, HTML/CSS, C#, C, GoLang, SQL
+- **Frameworks & Libraries**: NodeJS, React, React Native, Expo, Vite, Vue, Next.JS, Django, Express.js, AngularJS, Laravel, Flutter, TailwindCSS, Bootstrap, .NET, Ionic
 - **Tools & Platforms**: NPM, AWS, Vercel, Firebase, Apache, Wordpress, Cloudflare
 - **Data Science & ML**: Numpy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, PyTorch, Keras
 - **Databases**: MongoDB, MariaDB, MySQL, PostgresSQL, SQLite
@@ -14,7 +14,7 @@
 ## 🏗️ Projects:
 
 - **[Taqwa App](https://cutt.ly/taqwaa)**
-  - A comprehensive Islamic app that supports Muslims in their daily lives.
+  - A comprehensive Islamic app that supports Muslims in their daily lives. Built with React Native (Expo).
 
 - **[ESLSCA Connect](https://github.com/Im2rnado/eslsca-connect)**
   - Web Application for ESLSCA University that serves as a social networking platform. Built with MERN Stack.
