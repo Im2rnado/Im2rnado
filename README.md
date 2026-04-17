@@ -11,7 +11,7 @@
 - **Databases**: MongoDB, MariaDB, MySQL, PostgresSQL, SQLite
 
 
-## 🏗️ Projects:
+## Projects:
 
 - **[Taqwa App](https://cutt.ly/taqwaa)**
   - A comprehensive Islamic app that supports Muslims in their daily lives. Built with React Native (Expo).
@@ -76,15 +76,15 @@
 - **[Fortnite Discord RPC](https://github.com/im2rnado/Fortnite-Discord-RPC)**
   - A Node.js script to display your Fortnite level as your Discord status.
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Im2rnado&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Im2rnado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Contact Me:
+## Contact Me:
 
 - LinkedIn: [yassin-bedier](https://linkedin.com/in/yassin-bedier)
 - Email: yassin.bedier@gmail.com
