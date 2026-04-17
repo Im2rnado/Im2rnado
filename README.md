@@ -1,9 +1,9 @@
 # Hi there, I'm Yassin 👋
 
-## 🌱 About Me:
+## About Me:
 - I'm a Full-Stack Developer currently open to work and new opportunities. Feel free to [contact me](#contact-me)!
 
-## 💻 Core Skills:
+## Core Skills:
 - **Languages**: JavaScript, TypeScript, Python, Java, PHP, HTML/CSS, C#, C, GoLang, SQL
 - **Frameworks & Libraries**: NodeJS, React, React Native, Expo, Vite, Vue, Next.JS, Django, Express.js, AngularJS, Laravel, Flutter, TailwindCSS, Bootstrap, .NET, Ionic
 - **Tools & Platforms**: NPM, AWS, Vercel, Firebase, Apache, Wordpress, Cloudflare
@@ -15,6 +15,9 @@
 
 - **[Taqwa App](https://cutt.ly/taqwaa)**
   - A comprehensive Islamic app that supports Muslims in their daily lives. Built with React Native (Expo).
+
+- **[Google Maps Leads Extraction]([https://cutt.ly/taqwaa](https://github.com/Im2rnado/maps-leads))**
+  - An automated data extraction tool built with Puppeteer. It allows you to easily collect business leads directly from Google Maps keywords.
 
 - **[ESLSCA Connect](https://github.com/Im2rnado/eslsca-connect)**
   - Web Application for ESLSCA University that serves as a social networking platform. Built with MERN Stack.
