@@ -1,90 +1,149 @@
-# Hi there, I'm Yassin 👋
+# Yassin Bedier
 
-## About Me:
-- I'm a Full-Stack Developer currently open to work and new opportunities. Feel free to [contact me](#contact-me)!
+### Founder & CTO at [Webicco](https://www.webicco.studio)
+Building high-converting websites, mobile apps, SaaS platforms, tech solutions, and automation systems.
 
-## Core Skills:
-- **Languages**: JavaScript, TypeScript, Python, Java, PHP, HTML/CSS, C#, C, GoLang, SQL
-- **Frameworks & Libraries**: NodeJS, React, React Native, Expo, Vite, Vue, Next.JS, Django, Express.js, AngularJS, Laravel, Flutter, TailwindCSS, Bootstrap, .NET, Ionic
-- **Tools & Platforms**: NPM, AWS, Vercel, Firebase, Apache, Wordpress, Cloudflare
-- **Data Science & ML**: Numpy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, PyTorch, Keras
-- **Databases**: MongoDB, MariaDB, MySQL, PostgresSQL, SQLite
+---
 
+## About Me
 
-## Projects:
+I'm a full-stack developer and founder of Webicco — a creative development studio focused on building modern tech experiences for startups, brands, and growing businesses.
 
-- **[Taqwa App](https://cutt.ly/taqwaa)**
-  - A comprehensive Islamic app that supports Muslims in their daily lives. Built with React Native (Expo).
+I specialize in:
+- Scalable SaaS products
+- Custom websites and platforms
+- Mobile applications
+- Automation & API integrations
+- Creative frontend engineering
+- Shopify apps & eCommerce systems
 
-- **[Google Maps Leads Extraction]([https://cutt.ly/taqwaa](https://github.com/Im2rnado/maps-leads))**
-  - An automated data extraction tool built with Puppeteer. It allows you to easily collect business leads directly from Google Maps keywords.
+Currently focused on:
+- Growing Webicco
+- Scaling Photopress (Shopify Photobook App)
+- Building high-performance digital products with strong UX and motion design
 
-- **[ESLSCA Connect](https://github.com/Im2rnado/eslsca-connect)**
-  - Web Application for ESLSCA University that serves as a social networking platform. Built with MERN Stack.
+I prefer building from scratch over templates.  
+Fast execution, clean architecture, strong branding.
 
-- **[Banking System](https://github.com/Im2rnado/banking-system)**
-  - A comprehensive Java-based banking management system with GUI interface.
+---
 
-- **[CRM System](https://github.com/Im2rnado/crm-system)**
-  - A comprehensive Customer Relationship Management system built with Python using CustomTkinter, featuring AI-powered product recommendations.
+## Tech Stack
 
-- **[AI Todo List](https://github.com/Im2rnado/ai-todo)**
-  - An AI-powered to-do list app built with Next.js, leveraging OpenAI’s API to generate, update, and manage tasks based on input.
+### Languages
+`JavaScript` `TypeScript` `Python` `PHP` `Java` `C#` `C` `Go` `SQL`
 
-- **[Twitter Sentiment Analysis](https://github.com/Im2rnado/twitter-sentiment-analysis)**
-  - A sentiment analysis tool utilizing Logistic Regression, Decision Trees, KNN, Random Forest, XGBoost, SVM, and RoBERTa for NLP.
+### Frontend
+`React` `Next.js` `Vue` `Astro` `Vite` `TailwindCSS` `Three.js` `Angular`
 
-- **[Event Ticketing](https://github.com/Im2rnado/event-ticketing)**
-  - A Python-based event ticketing system with a GUI using Tkinter, that allows users to book tickets for various events and administrators to manage events and users.
+### Backend
+`Node.js` `Express.js` `Laravel` `Firebase` `MongoDB` `PostgreSQL` `MySQL` `FastAPI`
 
-- **[MedoAir](https://github.com/Im2rnado/medoair)**
-  - A comprehensive flight booking system built with Python and CustomTkinter, allowing users to browse flights, book tickets, and manage their bookings.
+### Mobile
+`React Native` `Expo` `Flutter`
 
-- **[Fitness Tracker](https://github.com/Im2rnado/medoair)**
-  - A comprehensive web-based fitness tracking system built using PHP, that allows users to manage their workouts and exercises, with administrative capabilities.
+### Cloud & DevOps
+`Vercel` `AWS` `Cloudflare` `Firebase` `Apache` `Docker` `MLFlow` `Airflow` `Prometheus` `Grafana`
 
-- **[Number Guessing Game](https://github.com/Im2rnado/number-guessing-game)**
-  - A fun and interactive number guessing game built with Python and Tkinter. This game offers multiple modes of play to challenge players of all skill levels.
- 
-- **[We Quota Checker](https://github.com/Im2rnado/we-quota-checker)**
-  - An NPM package that fetches your current internet quota details for WE (Telecom Egypt) 
+### AI & Automation
+`GPT` `BERT` `Fine-tuning` `TensorFlow` `Scikit-Learn` `Pandas` `Puppeteer` 
 
-- **[Usmap.Js](https://github.com/im2rnado/Usmap.js)**
-  - An NPM library for parsing Usmap files to extract mappings, enums, and schemas.
+---
 
-- **NHIS App**
-  - A comprehensive school management system designed to simplify life for teachers, students, parents, and employees. Developed using Flutter for mobile applications (for students/parents and teachers/employees) and a Laravel-based admin dashboard offering over 400 functions.
+# Webicco Studio
 
-- **C20, AolVIP**
-  - An educational penetration testing tool for Yahoo Mail and AOL Mail developed in C#. It includes a Captcha Solver for bypassing automated checks.
+> Creative Development Studio  
+> Founded by developers, built for modern brands.
 
-- **[Carbide Bot, Stinger Bot](https://github.com/im2rnado/Stinger-Help)**
-  - A Discord bot that manages your Fortnite account, and Valorant account, enabling actions typically restricted to in-game only.
+### What We Build
+- Custom Websites
+- Mobile Apps
+- SaaS Solutions
+- Business Platforms
+- eCommerce Experiences
+- Automation Systems
+- Custom APIs & Dashboards
 
-- **Fortnitify**
-  - A C# program that retrieves Fortnite statistics via the Epic Games API, leveraging email-based authentication.
+### Our Principles
+- Fast delivery
+- High-performance UI/UX
+- Real custom development
+- Long-term scalability
 
-- **[Bonker](https://github.com/im2rnado/Bonker.js)**
-  - An NPM library that creates a “bonk” GIF from a given image.
+### Featured Work
+- **[Bloom Bar](https://thebloombarr.com)** — Floral eCommerce brand _(Featured by SiteOfSites Q1 2026)_
+- **[Shababco](https://www.shababcoeg.com)** — Biggest events platform in MENA
+- **[Cityboys](https://www.cityyboys.com)** — Creative motion portfolio _(Featured by DragDropShip)_
+- **[Ashmand](https://www.ashmand.com)** — Enterprise soltuion for global leader in Solar Energy and Defense Systems
+- **[Taqwa](https://taqwa-app.netlify.app/download)** — Mobile app for Muslims _(Top #5 On App Store)_
 
-- **[MOEC](https://github.com/Im2rnado/museum)**
-  - A basic HTML and CSS website for managing and showcasing the Museum of Egyptian Civilization. The project includes both frontend visitor-facing pages and an administrative system.
+---
 
-- **[Fort Shop](https://github.com/Im2rnado/fitness-tracker)**
-  - A Node.js script that generates a Fortnite Item Shop image replicating the in-game design.
+## Featured Projects
 
-- **[Fortnite Discord RPC](https://github.com/im2rnado/Fortnite-Discord-RPC)**
-  - A Node.js script to display your Fortnite level as your Discord status.
+### **[Photopress](https://www.photopress.app)**
+Shopify personalization plugin for photobooks, memory books, and custom print products.  
+Built for stores that want a built-in workflow without enterprise pricing.
 
-## GitHub Stats:
+### **[Google Maps Leads Extraction](https://github.com/Im2rnado/maps-leads)**
+An automated data extraction tool built with Puppeteer. 
+It allows you to easily collect business leads directly from Google Maps keywords.
 
-![](https://github-readme-stats.vercel.app/api?username=Im2rnado&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+### ESLSCA Accommodation System
+Accessibility and accommodations management platform for ESLSCA University.  
+Built using React, Express.js, MongoDB, and TailwindCSS.
 
-## GitHub Trophies
+### **[ESLSCA Connect](https://github.com/Im2rnado/eslsca-connect)**
+Web Application for ESLSCA University that serves as a social networking platform.
+Built with MERN Stack.
 
-![](https://github-profile-trophy.vercel.app/?username=Im2rnado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### NHIS Platform
+Large-scale school management ecosystem with Flutter apps and Laravel admin dashboard containing 400+ functions.
 
-## Contact Me:
+### **[Banking System](https://github.com/Im2rnado/banking-system)**
+A comprehensive Java-based banking management system with GUI interface.
 
-- LinkedIn: [yassin-bedier](https://linkedin.com/in/yassin-bedier)
-- Email: yassin.bedier@gmail.com
+### **[CRM System](https://github.com/Im2rnado/crm-system)**
+Customer Relationship Management system built with Python using CustomTkinter, with AI product recommendations.
+
+### **[Twitter Sentiment Analysis](https://github.com/Im2rnado/twitter-sentiment-analysis)**
+A sentiment analysis tool utilizing Logistic Regression, Decision Trees, KNN, Random Forest, XGBoost, SVM, and RoBERTa for NLP.
+
+### **[We Quota Checker](https://github.com/Im2rnado/we-quota-checker)**
+An NPM package that fetches your current internet quota details for WE (Telecom Egypt)
+
+### **[AI Todo List](https://github.com/Im2rnado/ai-todo)**
+An AI-powered to-do list app built with Next.js.
+Leveraging OpenAI’s API to generate, update, and manage tasks based on input.
+
+---
+
+## Philosophy
+
+Good design gets attention.
+Good engineering keeps it alive.
+Great products do both.
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Im2rnado\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Im2rnado\&theme=tokyonight\&hide_border=true)
+
+![](https://github-profile-trophy.vercel.app/?username=Im2rnado\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=6)
+
+---
+
+## Connect
+
+* Portfolio: [https://webicco.studio](https://www.webicco.studio)
+* LinkedIn: [https://linkedin.com/in/yassin-bedier](https://linkedin.com/in/yassin-bedier)
+* GitHub: [https://github.com/Im2rnado](https://github.com/Im2rnado)
+* Email: [yassin.bedier@gmail.com](mailto:yassin.bedier@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Im2rnado&label=Profile+Views&color=111111&style=flat" />
+</p>
